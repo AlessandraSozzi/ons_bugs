@@ -1,7 +1,7 @@
 
 # install relevant packages
 install.packages("glmx")
-install.packages("R2Winbugs")
+install.packages("R2WinBUGS")
 
 # glmx has the beetles dataset included
 library(glmx)
